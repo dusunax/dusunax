@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=aaa&height=130&section=header&text=%20&fontSize=50)
 
-https://global-giraffe-ef7.notion.site/Home-c917d215ac494bde848fa2afeb279ffa
+https://dusunax.notion.site/
   
 고객만족 💐신장개업💐 고객감동
 
