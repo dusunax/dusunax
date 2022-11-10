@@ -1,10 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=aaa&height=130&section=header&text=%20&fontSize=50)
 
-https://dusunax.notion.site/
+노션: https://dusunax.notion.site/
+
+<!-- 블로그 공사중 
+티스토리 https://dusunax.tistory.com/
+벨로그 https://velog.io/@dusunax
+-->
   
 고객만족 💐신장개업💐 고객감동
 
 ![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&theme=dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusunax&layout=compact&theme=dark)
   
 <!-- 기술 태그 
 tag from https://shields.io/category/dependencies
@@ -21,6 +28,14 @@ logos from https://simpleicons.org/
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 -->
+  
+<br />
+  
+<!-- 라이브러리
+<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">  
+ -->
+
 
 <!-- HITS / 카운터 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusunax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dusunax/)
