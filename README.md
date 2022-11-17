@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=aaa&height=130&section=header&text=고객만족%20💐신장개업💐%20고객감동%20&fontSize=20)
 
-| 서식지 | 주소 |
+| 🏕 서식지 | 주소 |
 |--|--|
-| 노션 | https://dusunax.notion.site/ |
-| 티스토리 | https://dusunax.tistory.com/ |
-| 벨로그 | https://velog.io/@dusunax |
+| 👩‍🌾 노션 | https://dusunax.notion.site/ |
+| 🌾 티스토리 | https://dusunax.tistory.com/ |
+| 🌱 벨로그 | https://velog.io/@dusunax |
 
 <!-- 블로그 공사중 
 티스토리 https://dusunax.tistory.com/
@@ -18,7 +18,7 @@ logos from https://simpleicons.org/
 -->
 
 <p>
-주식: 
+🍱 : 
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
