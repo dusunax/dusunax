@@ -1,24 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=aaa&height=130&section=header&text=%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=aaa&height=130&section=header&text=고객만족%20💐신장개업💐%20고객감동%20&fontSize=20)
 
-노션: https://dusunax.notion.site/
+| 서식지 | 주소 |
+|--|--|
+| 노션 | https://dusunax.notion.site/ |
+| 티스토리 | https://dusunax.tistory.com/ |
+| 벨로그 | https://velog.io/@dusunax |
 
 <!-- 블로그 공사중 
 티스토리 https://dusunax.tistory.com/
 벨로그 https://velog.io/@dusunax
 -->
   
-고객만족 💐신장개업💐 고객감동
 
-![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&theme=dark&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusunax&layout=compact&theme=dark)
-  
 <!-- 기술 태그 
 tag from https://shields.io/category/dependencies
 logos from https://simpleicons.org/
 -->
 
 <p>
+주식: 
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -30,11 +30,19 @@ logos from https://simpleicons.org/
 -->
   
 <br />
+<br />
   
 <!-- 라이브러리
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">  
  -->
+
+
+<!-- Status -->
+<!-- ![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&theme=dark&hide_title=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusunax&layout=compact&theme=dark) -->
+<img src="https://server.dooboo.io/github-trophies/dusunax" style="width: 700px"/>
+<img src="https://server.dooboo.io/github-stats-advanced/dusunax" style="width: 500px"/>
 
 
 <!-- HITS / 카운터 -->
