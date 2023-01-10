@@ -39,7 +39,7 @@ logos from https://simpleicons.org/
 
 
 <!-- Status -->
-![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&theme=dark&hide_title=true)
+<!-- ![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&theme=dark&hide_title=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusunax&layout=compact&theme=dark) -->
 <!-- <img src="https://server.dooboo.io/github-trophies/dusunax" style="width: 700px"/> -->
 <!-- <img src="https://server.dooboo.io/github-stats-advanced/dusunax" style="width: 500px"/> -->
