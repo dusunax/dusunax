@@ -6,11 +6,6 @@
 | 🌾 티스토리 | https://dusunax.tistory.com/ |
 | 🌱 벨로그 | https://velog.io/@dusunax |
 
-<!-- 블로그 공사중 
-티스토리 https://dusunax.tistory.com/
-벨로그 https://velog.io/@dusunax
--->
-  
 
 <!-- 기술 태그 
 tag from https://shields.io/category/dependencies
