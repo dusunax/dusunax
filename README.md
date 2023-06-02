@@ -23,15 +23,20 @@ logos from https://simpleicons.org/
 <!-- 이거 공부 중
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 -->
-  
+    
 <br />
 <br />
   
 <!-- 라이브러리
-<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">  
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">  
+<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
  -->
 
+<!-- 사용해봄
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+-->
 
 <!-- Status -->
 <!-- ![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&theme=dark&hide_title=true) -->
