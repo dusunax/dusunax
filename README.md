@@ -40,7 +40,6 @@
 🛸 : 
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 ![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 <br />
 🐱‍🏍 : 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -53,6 +52,10 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=npm&logoColor=white">
  -->
+<!--
+증명 어려움+실력이 취미
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+-->
 
 <br />
 
