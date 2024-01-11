@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1A5D1A&height=130&section=header&text=고객만족%20💐신장개업💐%20고객감동%20&fontSize=20&textColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1A5D1A&height=130&section=header&text=고객만족%20💐대박 리뷰 이벤트💐%20고객감동%20&fontSize=20&textColor=ffffff)
 
 <!--
 1. 블로그 링크
@@ -28,9 +28,19 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
+<!-- 익숙함 + 자신감 150 이상 시 주석 해제하기-->
+
+<!-- [NestJS] 익숙함 20%, 자신감 50% -->
+<!-- Todo: 토이에 NextJs 적극 활용, [Udemy 강의 보기](https://www.udemy.com/course/nextjs-react-the-complete-guide/) -->
 <!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) -->
+
+<!-- [ThreeJS] 익숙함 70%, 자신감 50% -->
+<!-- Todo: 일하면서 배운 내용 기반으로 토이 프로젝트 만들기-->
 <!-- ![Three.JS](https://img.shields.io/badge/Three.js-049EF4?style=flat-square&logo=Three.js&logoColor=white) -->
-<!-- <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> -->
+
+<!-- [React Query] 익숙함 60%, 자신감 50% -->
+<!-- Todo: 쓰는 기능만 쓰고 있으므로 심화 학습 필요 -->
+<!-- 익숙함 60%, 자신감 40% <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> -->
 
 ---
 🛳 : 
