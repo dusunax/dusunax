@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1A5D1A&height=130&section=header&text=고객만족%20💐대박 리뷰 이벤트💐%20고객감동%20&fontSize=20&textColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1A5D1A&height=130&section=header&text=고객만족%20💐대박%20리뷰%20이벤트💐%20고객감동%20&fontSize=20&textColor=ffffff)
 
 <!--
 1. 블로그 링크
