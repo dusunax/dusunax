@@ -8,7 +8,7 @@
 |--|--|
 | 👩‍🌾 노션 | https://dusunax.notion.site/ |
 | 🌱 벨로그 | https://velog.io/@dusunax |
-<!--| 🌾 티스토리 | https://dusunax.tistory.com/ |-->
+| 🌾 티스토리 | https://dusunax.tistory.com/ |
 
 ---
 <!-- 2. 기술 태그 -->
