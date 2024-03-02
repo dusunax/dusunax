@@ -30,8 +30,7 @@
 
 <!-- 익숙함 + 자신감 150 이상 시 주석 해제하기-->
 
-<!-- [NestJS] 익숙함 20%, 자신감 50% -->
-<!-- Todo: 토이에 NextJs 적극 활용, [Udemy 강의 보기](https://www.udemy.com/course/nextjs-react-the-complete-guide/) -->
+<!-- [NextJS] -->
 <!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) -->
 
 <!-- [ThreeJS] 익숙함 70%, 자신감 50% -->
@@ -41,6 +40,9 @@
 <!-- [React Query] 익숙함 60%, 자신감 50% -->
 <!-- Todo: 쓰는 기능만 쓰고 있으므로 심화 학습 필요 -->
 <!-- 익숙함 60%, 자신감 40% <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> -->
+
+<!-- [NestJS] 익숙함 20%, 자신감 50% -->
+<!-- Todo: 토이에 NextJs 적극 활용, [Udemy 강의 보기](https://www.udemy.com/course/nextjs-react-the-complete-guide/) -->
 
 ---
 🛳 : 
