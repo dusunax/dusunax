@@ -22,11 +22,11 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 |--|--|
 | 📧 Email | dusunax@gmail.com |
 | 🥕 Youtube | https://www.youtube.com/@dusunax |
-| 👩‍🌾 Notion | https://dusunax.notion.site |
 | 🌱 Blog/tech | https://velog.io/@dusunax |
 | 🌾 Blog/diary | https://dusunax.tistory.com/ |
+| 👩‍🌾 Notion | https://dusunax.notion.site |
 
-## Tech Stack
+## 🪬 Tech Stack
 
 | category | skills |
 | ------------- | ------------------------- |
