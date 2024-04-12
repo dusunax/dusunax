@@ -10,7 +10,7 @@ I'm a passionate Front-end developer with a love for creating elegant and effici
 With a background in JavaScript and its ecosystem, I thrive on building modern web applications using cutting-edge technologies.   
 
 Previously studying art and web publishing, I can bring a unique perspective to creating visually appealing and user-friendly interfaces.   
-My interests and skills lean more towards front-end development, 3D rendering, web view, and design systems.  
+My interests and skills lean more towards front-end development, web view, and design systems and 3D rendering.  
 
 I thrive in collaborative environments, leveraging collective strengths to deliver high-quality results through focused efforts.  
 Constantly exploring new frontiers, to blend aesthetics with functionality, pushing the boundaries of what's possible in web development👊
