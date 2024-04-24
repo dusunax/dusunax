@@ -1,9 +1,10 @@
-> 고객 만족 💐 대박 코드 리뷰 이벤트 💐 고객 감동  
+> 고객 만족 💐 대박 리뷰 이벤트 💐 고객 감동  
 > <img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400">  
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusunax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dusunax/)  
 
 # Hello! 👋
 
+<!-- 
 ## 👩‍🌾 About Me
 
 I'm a passionate Front-end developer with a love for creating elegant and efficient software solutions.  
@@ -14,7 +15,7 @@ My interests and skills lean more towards front-end development, web view, and d
 
 I thrive in collaborative environments, leveraging collective strengths to deliver high-quality results through focused efforts.  
 Constantly exploring new frontiers, to blend aesthetics with functionality, pushing the boundaries of what's possible in web development👊
-
+-->
 
 ## 🏕 habitat
 
@@ -37,10 +38,10 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 ## ⌛️ 2024's Learning Goals
 
 - [ ] 📚 Conducting a deep dive into my current tech stack to enhance my computer science knowledge, aiming to become a long-term contributing developer.
-   - Processing: ~Javascript(2023)~, React(2024.3~), Typescript 
-- [ ] 📝 Building a portfolio/blog by 2024 to showcase TILs (Today I Learned) and project examples, further demonstrating my skills and learnings.
-- [ ] 🧩 Researching and gaining insights into monorepos, design systems, and web views to broaden my understanding of modern web development practices.
-- [ ] 🤖 Keen to leverage AI technologies in projects to create intelligent and intuitive user experiences.
+   - Processing: ~Modern Javascript Deep Dive(2023)~, Modern React Deep Dive(2024.3~), Typescript 
+- [ ] 📝 Building a portfolio/blog by 2024 to showcase TILs (Today I Learned) and project examples etc.
+- [ ] 🧩 Researching and gaining insights into monorepos, design systems, and web views.
+- [ ] 🤖 build a AI related projects.
 
 
 ## GitHub stats
