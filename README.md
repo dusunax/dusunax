@@ -1,4 +1,5 @@
 > 고객 만족 💐 대박 리뷰 이벤트 💐 고객 감동  
+> <br />
 > <img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400">  
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusunax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dusunax/)  
 
@@ -25,19 +26,20 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 | 🥕 Youtube | https://www.youtube.com/@dusunax |
 | 🌱 Blog/tech | https://velog.io/@dusunax |
 | 🌾 Blog/diary | https://dusunax.tistory.com/ |
-| 👩‍🌾 Notion | https://dusunax.notion.site |
+| 👩‍🌾 Notion/memo | https://dusunax.notion.site |
+| 🎨 Drawing/hobby | https://www.instagram.com/dusunar/ |
 
 ## 🪬 Tech Stack
 
 | category | skills |
 | ------------- | ------------------------- |
-| Front-end 🐔 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-F3DF49?style=flat-square&logo=npm&logoColor=white) ![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)   |
+| 🐔 Front-end  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-F3DF49?style=flat-square&logo=npm&logoColor=white) ![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)   |
 
 ## And also
 
 | category | skills |
 | ------------- | ------------------------- |
-| Back-end 🐤 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🐤 Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | Others | Github, Docker, AWS, Agile Methodologies |
 
 ## ⌛️ 2024's Learning Goals
@@ -45,13 +47,13 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 - [ ] 📚 Conducting a deep dive into my current tech stack to enhance my computer science knowledge, aiming to become a long-term contributing developer.
    - Processing
       - [x] Modern Javascript Deep Dive (2023)
-      - [x] [Modern React Deep Dive (2024.3\~4)](https://github.com/monthly-cs/2024-03-modern-react-deep-dive)
-      - [ ] [Typescript (2024.5~)](https://github.com/monthly-cs/2024-05-effective-typescript)
-      - [ ] Next.js
+      - [x] [monthly-cs/Modern React Deep Dive (2024.3\~4)](https://github.com/monthly-cs/2024-03-modern-react-deep-dive)
+      - [x] [monthly-cs/Typescript (2024.5~6)](https://github.com/monthly-cs/2024-05-effective-typescript)
+      - [ ] [monthly-cs/Next.js (2024.6~)](https://github.com/monthly-cs/2024-06-nextjs)
 - [ ] 📝 Building a portfolio/blog by 2024 to showcase TILs (Today I Learned) and project examples etc.
 - [ ] 🧩 Researching and gaining insights into monorepos, design systems, and web views.
 - [ ] 🤖 build a AI related projects.
-   - `ChooseYourTale` Project: 2024.6 ~
+   - `ChooseTale` Project: 2024.6 ~
 
 
 ## GitHub stats
