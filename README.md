@@ -39,7 +39,7 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 
 | category | skills |
 | ------------- | ------------------------- |
-| 🐤 Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🐤 Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)|
 | Others | Github, Docker, AWS, Agile Methodologies |
 
 ## ⌛️ 2024's Learning Goals
