@@ -1,6 +1,6 @@
 > 고객 만족 💐 대박 리뷰 이벤트 💐 고객 감동  
 > <br />
-> <a href="https://me-o2656hvpw-kikids.vercel.app" target="_blank"><img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400"></a><br>
+> <a href="[https://me-o2656hvpw-kikids.vercel.app](https://me-git-main-kikids.vercel.app/)" target="_blank"><img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400"></a><br>
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusunax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dusunax/)  
 
 # Hello! 👋
@@ -22,7 +22,7 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 
 | habitat | url |
 |--|--|
-| 🙏 Portfolio | https://me-o2656hvpw-kikids.vercel.app |
+| 🙏 Portfolio | <a href="https://me-o2656hvpw-kikids.vercel.app" target="_blank">개인 포트폴리오<br> |
 | 📧 Email | dusunax@gmail.com |
 | 🥕 Youtube | https://www.youtube.com/@dusunax |
 | 🌱 Blog/tech | https://velog.io/@dusunax |
