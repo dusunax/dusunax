@@ -57,8 +57,8 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
    - Processing
       - [x] Modern Javascript Deep Dive (2023)
       - [x] [monthly-cs/Modern React Deep Dive (2024.3\~4)](https://github.com/monthly-cs/2024-03-modern-react-deep-dive)
-      - [x] [monthly-cs/Typescript (2024.5~6)](https://github.com/monthly-cs/2024-05-effective-typescript)
-      - [ ] [monthly-cs/Next.js (2024.6~)](https://github.com/monthly-cs/2024-06-nextjs)
+      - [x] [monthly-cs/Typescript (2024.5\~6)](https://github.com/monthly-cs/2024-05-effective-typescript)
+      - [x] [monthly-cs/Next.js (2024.6\~7)](https://github.com/monthly-cs/2024-06-nextjs)
 - [ ] 📝 Building a portfolio/blog by 2024 to showcase TILs (Today I Learned) and project examples etc.
 - [ ] 🧩 Researching and gaining insights into monorepos, design systems, and web views.
 - [ ] 🤖 build a AI related projects.
