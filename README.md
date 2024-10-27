@@ -59,7 +59,7 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
       - [x] [monthly-cs/Modern React Deep Dive (2024.3\~4)](https://github.com/monthly-cs/2024-03-modern-react-deep-dive)
       - [x] [monthly-cs/Typescript (2024.5\~6)](https://github.com/monthly-cs/2024-05-effective-typescript)
       - [x] [monthly-cs/Next.js (2024.6\~7)](https://github.com/monthly-cs/2024-06-nextjs)
-      - [ ] [monthly-cs/Functional Programming (2024.10)](https://github.com/monthly-cs/2024-10-functional-es6)
+      - [x] [monthly-cs/Functional Programming (2024.10)](https://github.com/monthly-cs/2024-10-functional-es6)
 - [ ] 📝 ~Building a portfolio/blog by 2024 to showcase TILs (Today I Learned) and project examples etc.~
    - [x] Canceled: I built a one-page portfolio instead 🥹
       - 👉 https://dusuna.site
