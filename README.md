@@ -1,9 +1,8 @@
-> 고객 만족 💐 대박 리뷰 이벤트 💐 고객 감동  
-> <br />
-> <a href="https://dusuna.site" target="_blank"><img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400"></a><br>
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusunax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dusunax/)  
+> 고객 만족 💐 대박 리뷰 이벤트 💐 고객 감동 
 
-# Hello! 👋
+# Hello! 👋 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusunax&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dusunax/)  
 
 <!-- 
 ## 👩‍🌾 About Me
@@ -51,6 +50,14 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 <!-- <img src="https://server.dooboo.io/github-trophies/dusunax" style="width: 700px"/> -->
 <!-- <img src="https://server.dooboo.io/github-stats-advanced/dusunax" style="width: 500px"/> -->
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dusunax?pet-id=645189101749784288"
+    width="1000"
+    height="120"
+  />
+</a>
+
 ## ⌛️ 2024's Learning Goals
 
 - [ ] 📚 Conducting a deep dive into my current tech stack to enhance my computer science knowledge, aiming to become a long-term contributing developer.
@@ -68,3 +75,5 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
    - `ChooseTale` Project: 2024.6 ~
 
 
+
+> <a href="https://dusuna.site" target="_blank"><img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400"></a><br>
