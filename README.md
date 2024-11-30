@@ -42,20 +42,23 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 | 🐤 Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)|
 | Others | Github, Docker, AWS, Agile Methodologies | -->
 
-## GitHub stats
+## 📈 GitHub stats
 
 <!-- Status -->
-![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&bg_color=0,1A5D1A,F1C93B&title_color=FAE392&text_color=ffffff&border_color=1A5D1A)
+<!-- ![dusunax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&bg_color=0,1A5D1A,F1C93B&title_color=FAE392&text_color=ffffff&border_color=1A5D1A) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusunax&layout=compact&theme=dark) -->
 <!-- <img src="https://server.dooboo.io/github-trophies/dusunax" style="width: 700px"/> -->
 <!-- <img src="https://server.dooboo.io/github-stats-advanced/dusunax" style="width: 500px"/> -->
 
+<a href="https://github.com/dusunax">
+  <img width="auto" height="229px" 
+    src="https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&bg_color=0,1A5D1A,F1C93B&title_color=FAE392&text_color=ffffff&border_color=1A5D1A">
+</a>
+<a href="https://github.com/dusunax">
+   <img  width="auto" height="229px" src="https://github-profile-trophy.vercel.app/?username=dusunax&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />
+</a>
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/dusunax?pet-id=645189101749784288"
-    width="1000"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/dusunax?pet-id=645189101749784288" width="1000" height="120">
 </a>
 
 ## ⌛️ 2024's Learning Goals
@@ -73,7 +76,6 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 - [ ] 🧩 Researching and gaining insights into monorepos, design systems, and web views.
 - [ ] 🤖 build a AI related projects.
    - `ChooseTale` Project: 2024.6 ~
-
 
 
 > <a href="https://dusuna.site" target="_blank"><img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400"></a><br>
