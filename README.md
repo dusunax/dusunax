@@ -51,11 +51,11 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 <!-- <img src="https://server.dooboo.io/github-stats-advanced/dusunax" style="width: 500px"/> -->
 
 <a href="https://github.com/dusunax">
-  <img width="auto" height="229px" 
+  <img width="auto" height="191px" 
     src="https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&bg_color=0,1A5D1A,F1C93B&title_color=FAE392&text_color=ffffff&border_color=1A5D1A">
 </a>
 <a href="https://github.com/dusunax">
-   <img  width="auto" height="229px" src="https://github-profile-trophy.vercel.app/?username=dusunax&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />
+   <img  width="auto" height="191px" src="https://github-profile-trophy.vercel.app/?username=dusunax&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />
 </a>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/dusunax?pet-id=645189101749784288" width="1000" height="120">
