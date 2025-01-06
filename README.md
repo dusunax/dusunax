@@ -61,21 +61,4 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
   <img src="https://render.gitanimals.org/lines/dusunax?pet-id=645189101749784288" width="1000" height="120">
 </a>
 
-## ⌛️ 2024's Learning Goals
-
-- [ ] 📚 Conducting a deep dive into my current tech stack to enhance my computer science knowledge, aiming to become a long-term contributing developer.
-   - Processing
-      - [x] Modern Javascript Deep Dive (2023)
-      - [x] [monthly-cs/Modern React Deep Dive (2024.3\~4)](https://github.com/monthly-cs/2024-03-modern-react-deep-dive)
-      - [x] [monthly-cs/Typescript (2024.5\~6)](https://github.com/monthly-cs/2024-05-effective-typescript)
-      - [x] [monthly-cs/Next.js (2024.6\~7)](https://github.com/monthly-cs/2024-06-nextjs)
-      - [x] [monthly-cs/Functional Programming (2024.10)](https://github.com/monthly-cs/2024-10-functional-es6)
-- [ ] 📝 ~Building a portfolio/blog by 2024 to showcase TILs (Today I Learned) and project examples etc.~
-   - [x] Canceled: I built a one-page portfolio instead 🥹
-      - 👉 https://dusuna.site
-- [ ] 🧩 Researching and gaining insights into monorepos, design systems, and web views.
-- [ ] 🤖 build a AI related projects.
-   - `ChooseTale` Project: 2024.6 ~
-
-
 > <a href="https://dusuna.site" target="_blank"><img src="https://github.com/dusunax/dusunax/assets/94776135/c0873861-93d1-400e-a03d-5d3849d9c3c8" width="400"></a><br>
