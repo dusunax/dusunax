@@ -26,8 +26,8 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 | 🥕 Youtube | https://www.youtube.com/@dusunax |
 | 🌱 Blog/tech | https://velog.io/@dusunax |
 | 🌾 Blog/diary | https://dusunax.tistory.com/ |
-| 👩‍🌾 Notion/memo | https://dusunax.notion.site |
 | 🎨 Drawing/hobby | https://www.instagram.com/dusunar/ |
+<!-- | 👩‍🌾 Notion/memo | https://dusunax.notion.site | -->
 
 ## 🪬 Tech Stack
 
