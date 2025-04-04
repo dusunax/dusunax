@@ -21,7 +21,7 @@ Constantly exploring new frontiers, to blend aesthetics with functionality, push
 
 | habitat | url |
 |--|--|
-| 🙏 Portfolio | https://dusuna.site |
+| 🙏 Portfolio | https://dusunax.site |
 | 📧 Email | dusunax@gmail.com |
 | 🥕 Youtube | https://www.youtube.com/@dusunax |
 | 🌱 Blog/tech | https://velog.io/@dusunax |
