@@ -3,6 +3,7 @@
 
 ## 📈 GitHub stats
 
+<!-- 
 <a href="#">
   <img 
     width="380px"
@@ -11,19 +12,18 @@
     alt="trophy" 
   />
 </a>
+-->
 
 <a href="#">
   <img 
-    width="400px"
-    height="191px" 
+    width="390px"
     src="https://github-readme-stats.vercel.app/api?username=dusunax&show_icons=true&bg_color=0,1A5D1A,F1C93B&title_color=FAE392&text_color=ffffff&border_color=1A5D1A" 
     alt="github stats"
   />
 </a>
 
-<a href="#" width="200">
-  <img 
-    height="191px" 
+<a href="#" >
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusunax&layout=compact&theme=dark" 
     alt="top langs" 
   />
@@ -31,8 +31,9 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img 
-    width="400px"
-    height="191px"
+    width="600px"
+    height="150px"
     src="https://render.gitanimals.org/lines/dusunax?pet-id=645189101749784288" 
+    alt="animals"
   />
 </a>
